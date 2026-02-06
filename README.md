@@ -2,6 +2,8 @@
 
 A collection of beautiful themes to customize and enhance the Cosmic Desktop Environment.
 
+Note: This repository is not affiliated with the official COSMIC Desktop project.
+
 ## Official Themes
 
 | **Comet Light** | **Cosmic Dark** |
@@ -31,29 +33,34 @@ A collection of beautiful themes to customize and enhance the Cosmic Desktop Env
 |------------------|-----------------|
 | ![cosmic-crimson.png](screenshots/cosmic-crimson.png) | ![flaming-ruby.png](screenshots/flaming-ruby.png) |
 
-| **Hot Iron** | **Lunar Eclipse** |
+| **Graphite Glow** | **Hot Iron** |
 |------------------|-----------------|
-| ![hot-iron.png](screenshots/hot-iron.png) | ![lunar-eclipse.png](screenshots/lunar-eclipse.png) |
+| ![graphite-glow.png](screenshots/graphite-glow.png) | ![hot-iron.png](screenshots/hot-iron.png) |
 
-| **Mint Dark** | **Monokai** |
+| **Lunar Eclipse** | **Mint Dark** |
 |------------------|-----------------|
-| ![mint-dark.png](screenshots/mint-dark.png) | ![monokai.png](screenshots/monokai.png) |
+| ![lunar-eclipse.png](screenshots/lunar-eclipse.png) | ![mint-dark.png](screenshots/mint-dark.png) |
 
-| **Obsidian** | **Ocean Mist** |
+| **Monokai** | **Obsidian** |
 |------------------|-----------------|
-| ![obsidian.png](screenshots/obsidian.png) | ![ocean-mist.png](screenshots/ocean-mist.png) |
+| ![monokai.png](screenshots/monokai.png) | ![obsidian.png](screenshots/obsidian.png) |
 
-| **Omnitrix** | **Shadcn Dark** |
+| **Ocean Mist** | **Omnitrix** |
 |------------------|-----------------|
-| ![omnitrix.png](screenshots/omnitrix.png) | ![shadcn.png](screenshots/shadcn-dark.png) |
+| ![ocean-mist.png](screenshots/ocean-mist.png) | ![omnitrix.png](screenshots/omnitrix.png) |
 
-| **Steam Client** | **Ubuntu Classic Dark** |
+| **Shadcn Dark** | **Steam Client** |
 |------------------|-----------------|
-| ![steam-client.png](screenshots/steam-client.png) | ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) |
+| ![shadcn.png](screenshots/shadcn-dark.png) | ![steam-client.png](screenshots/steam-client.png) |
+
+| **Sunset Ash** | **Ubuntu Classic Dark** |
+|------------------|-----------------|
+| ![sunset-ash.png](screenshots/sunset-ash.png) | ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) |
 
 | **Void Dream** |
 |-----------------|
 | ![void-dream.png](screenshots/void-dream.png) |
+
 
 
 ## Light Themes

@@ -33,17 +33,17 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 |------------------|-----------------|
 | ![cosmic-crimson.png](screenshots/cosmic-crimson.png) | ![flaming-ruby.png](screenshots/flaming-ruby.png) |
 
-| **Graphite Glow** | **Hot Iron** |
+| **Graphite Glow Dark** | **Hot Iron** |
 |------------------|-----------------|
-| ![graphite-glow.png](screenshots/graphite-glow.png) | ![hot-iron.png](screenshots/hot-iron.png) |
+| ![graphite-glow.png](screenshots/graphite-glow-dark.png) | ![hot-iron.png](screenshots/hot-iron.png) |
 
 | **Lunar Eclipse** | **Mint Dark** |
 |------------------|-----------------|
 | ![lunar-eclipse.png](screenshots/lunar-eclipse.png) | ![mint-dark.png](screenshots/mint-dark.png) |
 
-| **Monokai** | **Obsidian** |
+| **Monokai Dark** | **Obsidian** |
 |------------------|-----------------|
-| ![monokai.png](screenshots/monokai.png) | ![obsidian.png](screenshots/obsidian.png) |
+| ![monokai.png](screenshots/monokai-dark.png) | ![obsidian.png](screenshots/obsidian.png) |
 
 | **Ocean Mist** | **Omnitrix** |
 |------------------|-----------------|
@@ -53,14 +53,13 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 |------------------|-----------------|
 | ![shadcn.png](screenshots/shadcn-dark.png) | ![steam-client.png](screenshots/steam-client.png) |
 
-| **Sunset Ash** | **Ubuntu Classic Dark** |
+| **Sunset Ash Dark** | **Ubuntu Classic Dark** |
 |------------------|-----------------|
-| ![sunset-ash.png](screenshots/sunset-ash.png) | ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) |
+| ![sunset-ash.png](screenshots/sunset-ash-dark.png) | ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) |
 
 | **Void Dream** |
 |-----------------|
 | ![void-dream.png](screenshots/void-dream.png) |
-
 
 
 ## Light Themes
@@ -69,21 +68,25 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 |------------------|-----------------|
 | ![accent-light.png](screenshots/accent-light.png) | ![caramel-light.png](screenshots/caramel-light.png) |
 
-| **Lemon Grass** | **Maroon Mirage** |
-|------------------|-----------------|
-| ![lemon-grass.png](screenshots/lemon-grass.png) | ![maroon-mirage.png](screenshots/maroon-mirage.png) |
+| **Graphite Glow Light** | **Lemon Grass** |
+|-------------------------|----------------|
+| ![graphite-glow-light.png](screenshots/graphite-glow-light.png) | ![lemon-grass.png](screenshots/lemon-grass.png) |
 
-| **Mint Light** | **Royal Orchid** |
-|------------------|-----------------|
-| ![mint-light.png](screenshots/mint-light.png) | ![royal-orchid.png](screenshots/royal-orchid.png) |
+| **Maroon Mirage** | **Mint Light** |
+|-------------------|---------------|
+| ![maroon-mirage.png](screenshots/maroon-mirage.png) | ![mint-light.png](screenshots/mint-light.png) |
 
-| **Shadcn Light** | **Ubuntu Classic** |
-|------------------|-----------------|
-| ![shadcn-light.png](screenshots/shadcn-light.png) | ![ubuntu-classic.png](screenshots/ubuntu-classic.png) |
+| **Monokai Light** | **Royal Orchid** |
+|-------------------|-----------------|
+| ![monokai-light.png](screenshots/monokai-light.png) | ![royal-orchid.png](screenshots/royal-orchid.png) |
 
-| **Ubuntu Light** |
-|------------------|
-| ![ubuntu-light.png](screenshots/ubuntu-light.png) | 
+| **Shadcn Light** | **Sunset Ash Light** |
+|------------------|----------------------|
+| ![shadcn-light.png](screenshots/shadcn-light.png) | ![sunset-ash-light.png](screenshots/sunset-ash-light.png) |
+
+| **Ubuntu Classic Light** | **Ubuntu Light** |
+|--------------------|-----------------|
+| ![ubuntu-classic.png](screenshots/ubuntu-classic.png) | ![ubuntu-light.png](screenshots/ubuntu-light.png) |
 
 ### How to Apply a Theme
 1. Open Cosmic Settings.

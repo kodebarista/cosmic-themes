@@ -216,9 +216,9 @@
     ),
     neutral_tint: None,
     bg_color: Some((
-        red: 0.023260737,
-        green: 0.027492106,
-        blue: 0.020842811,
+        red: 0.07045637,
+        green: 0.0758999,
+        blue: 0.06734578,
         alpha: 1.0,
     )),
     primary_container_bg: Some((

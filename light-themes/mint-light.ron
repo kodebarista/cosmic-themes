@@ -220,17 +220,12 @@
         blue: 0.3882353,
     )),
     bg_color: Some((
-        red: 0.9567884,
-        green: 0.9647943,
-        blue: 0.9523016,
+        red: 0.9277712,
+        green: 0.9347805,
+        blue: 0.9238429,
         alpha: 1.0,
     )),
-    primary_container_bg: Some((
-        red: 0.85719603,
-        green: 0.9230617,
-        blue: 0.8202823,
-        alpha: 1.0,
-    )),
+    primary_container_bg: None,
     secondary_container_bg: None,
     text_tint: Some((
         red: 0.15529606,
